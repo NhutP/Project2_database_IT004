@@ -1,0 +1,2026 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <Hoc_sinh>
+    <HovaTen>Bùi Bảo Tâm</HovaTen>
+    <NTNS>1993-03-19</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phù Cẩm Vũ Khang</HovaTen>
+    <NTNS>1995-12-09</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Yến Đông</HovaTen>
+    <NTNS>1995-07-08</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tiêu Nguyên Vũ</HovaTen>
+    <NTNS>1993-02-26</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Sơn Trần Văn</HovaTen>
+    <NTNS>1993-08-26</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Doãn Kim Thiên</HovaTen>
+    <NTNS>1995-09-05</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vũ Tuyết Bảo</HovaTen>
+    <NTNS>1993-12-12</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>La Thanh Bích Thương</HovaTen>
+    <NTNS>1994-08-13</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thân Thu Hải Vi</HovaTen>
+    <NTNS>1993-12-18</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lý Trần Băng</HovaTen>
+    <NTNS>1995-12-05</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Võ An Bảo Thịnh</HovaTen>
+    <NTNS>1995-11-07</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phùng Nhật Thơ</HovaTen>
+    <NTNS>1994-02-03</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đoàn Thảo Văn Nhã</HovaTen>
+    <NTNS>1994-01-26</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đậu Như Triệu Vinh</HovaTen>
+    <NTNS>1994-07-05</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vương Vĩnh Trâm</HovaTen>
+    <NTNS>1995-02-06</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Võ Minh Ý</HovaTen>
+    <NTNS>1994-03-13</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Văn Thanh Phụng</HovaTen>
+    <NTNS>1995-07-04</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hàng Xuân Dung</HovaTen>
+    <NTNS>1995-03-09</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mã Đoàn Hữu Châu</HovaTen>
+    <NTNS>1995-04-06</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Lan Phương Ân</HovaTen>
+    <NTNS>1994-09-28</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trang Thành Việt Thuận</HovaTen>
+    <NTNS>1994-02-28</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tiêu Bảo Kỳ Diệp</HovaTen>
+    <NTNS>1995-11-21</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Bình Diệu</HovaTen>
+    <NTNS>1995-01-12</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Mẫn Kim</HovaTen>
+    <NTNS>1995-01-20</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mai Kim My</HovaTen>
+    <NTNS>1994-04-12</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đàm An Gia Hương</HovaTen>
+    <NTNS>1995-08-16</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lã Vinh Kim</HovaTen>
+    <NTNS>1995-04-26</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lại Nhật Cao Trinh</HovaTen>
+    <NTNS>1994-11-02</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồ Tuấn Trí</HovaTen>
+    <NTNS>1994-06-14</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cao Nhật Tú Khang</HovaTen>
+    <NTNS>1994-01-24</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Bùi Hữu Hạnh Kim</HovaTen>
+    <NTNS>1995-12-07</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lương Hiếu Tuệ Nghĩa</HovaTen>
+    <NTNS>1994-06-07</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đào An Phụng</HovaTen>
+    <NTNS>1995-03-13</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phương Bá Kỳ</HovaTen>
+    <NTNS>1994-02-16</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chung Sỹ Thành</HovaTen>
+    <NTNS>1993-07-17</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thân Ngân Phát</HovaTen>
+    <NTNS>1994-12-23</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đồng Như Nhã</HovaTen>
+    <NTNS>1994-10-09</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Đoàn Hưng Vân</HovaTen>
+    <NTNS>1993-01-30</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Quan Đăng Bùi Trà</HovaTen>
+    <NTNS>1994-09-02</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lương Phạm Nguyên Vương</HovaTen>
+    <NTNS>1995-07-10</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Sơn Vinh Tiến Kiệt</HovaTen>
+    <NTNS>1994-01-19</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Châu Minh Hiếu</HovaTen>
+    <NTNS>1995-01-01</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Viên Xuân Đình Hằng</HovaTen>
+    <NTNS>1995-07-22</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Xuân Đoàn Oanh</HovaTen>
+    <NTNS>1993-11-28</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Hồng Khánh</HovaTen>
+    <NTNS>1994-06-03</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Châu Bùi Hoàng</HovaTen>
+    <NTNS>1993-02-20</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồ Hưng Tường</HovaTen>
+    <NTNS>1994-06-04</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Khánh Ngân</HovaTen>
+    <NTNS>1995-03-21</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lê Dương Hoàng Lộc</HovaTen>
+    <NTNS>1995-04-06</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đàm Đắc Hào</HovaTen>
+    <NTNS>1993-04-02</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Âu Bùi Duyên</HovaTen>
+    <NTNS>1995-06-26</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Văn Đặng Quý Thiên</HovaTen>
+    <NTNS>1994-07-25</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phan Phát Phan Trí</HovaTen>
+    <NTNS>1995-06-12</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Kiều Trọng Trọng Yến</HovaTen>
+    <NTNS>1995-07-09</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Bình Bá Hạnh</HovaTen>
+    <NTNS>1993-02-07</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lai Viết Trâm Khang</HovaTen>
+    <NTNS>1995-03-26</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tất Thiên Phương</HovaTen>
+    <NTNS>1995-07-23</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đàm Quỳnh Khôi Khoa</HovaTen>
+    <NTNS>1995-03-20</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trầm Thái Tùng</HovaTen>
+    <NTNS>1994-12-05</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Kim Đặng Thương</HovaTen>
+    <NTNS>1994-08-25</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Triệu Trương Trần Vy</HovaTen>
+    <NTNS>1995-12-26</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thái Uyển Chí Ánh</HovaTen>
+    <NTNS>1995-05-14</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trình Phúc Kỳ</HovaTen>
+    <NTNS>1995-05-04</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chung Quý Nhi</HovaTen>
+    <NTNS>1993-03-24</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lai Hương Huyền Phước</HovaTen>
+    <NTNS>1995-01-10</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phan Đình Ánh Đạt</HovaTen>
+    <NTNS>1995-02-21</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Âu Hiếu Gia Doanh</HovaTen>
+    <NTNS>1995-02-17</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>La Kỳ Thúy Giang</HovaTen>
+    <NTNS>1995-03-17</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Trương Diễm Dương</HovaTen>
+    <NTNS>1995-01-05</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trịnh Phan Thắm</HovaTen>
+    <NTNS>1994-01-18</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhâm Bùi Thanh</HovaTen>
+    <NTNS>1993-02-24</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ngụy Phi Đại Vy</HovaTen>
+    <NTNS>1993-04-27</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Như Bùi Nhân</HovaTen>
+    <NTNS>1993-08-24</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trần Hải Phúc Kim</HovaTen>
+    <NTNS>1993-06-19</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đặng Tuấn Đăng</HovaTen>
+    <NTNS>1993-02-04</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tất Như Thanh Quyên</HovaTen>
+    <NTNS>1995-11-07</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhan Nhã Cường</HovaTen>
+    <NTNS>1994-08-06</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạc Tuệ Lộc</HovaTen>
+    <NTNS>1994-04-03</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hoàng Bảo Tuấn Thúy</HovaTen>
+    <NTNS>1993-11-07</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhâm Trâm Long Khải</HovaTen>
+    <NTNS>1993-03-29</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lư Lý Thương</HovaTen>
+    <NTNS>1994-08-06</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Sơn Hữu Diệp</HovaTen>
+    <NTNS>1995-10-14</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lý Võ Trang</HovaTen>
+    <NTNS>1993-10-29</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lý Bình Võ Phượng</HovaTen>
+    <NTNS>1994-09-22</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đào Võ Thuận Phượng</HovaTen>
+    <NTNS>1994-10-05</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Giang Trang Hữu An</HovaTen>
+    <NTNS>1995-04-30</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trà Bá Yến Ý</HovaTen>
+    <NTNS>1995-05-05</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trầm Châu Tuyết</HovaTen>
+    <NTNS>1994-02-12</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạch Bảo Dương Khuê</HovaTen>
+    <NTNS>1994-10-13</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thân Tuấn Linh My</HovaTen>
+    <NTNS>1993-09-12</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Diệp Khánh Phương Quân</HovaTen>
+    <NTNS>1995-07-15</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tống Nguyệt Quý</HovaTen>
+    <NTNS>1993-07-15</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Lâm Phạm Di</HovaTen>
+    <NTNS>1994-01-24</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Kim Thắng</HovaTen>
+    <NTNS>1994-02-04</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Huỳnh Phước Phát Doanh</HovaTen>
+    <NTNS>1994-11-11</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đàm Phi Thu Khuê</HovaTen>
+    <NTNS>1995-07-14</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Văn Quỳnh Kha</HovaTen>
+    <NTNS>1993-07-16</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trà Tiểu Ngọc Doanh</HovaTen>
+    <NTNS>1994-06-28</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hàng Như Long</HovaTen>
+    <NTNS>1995-03-20</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tiêu Ngọc Kiệt</HovaTen>
+    <NTNS>1994-07-20</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Phương Giang</HovaTen>
+    <NTNS>1993-06-03</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Bùi Lâm Như Hòa</HovaTen>
+    <NTNS>1995-06-06</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nghiêm Kim Song Mỹ</HovaTen>
+    <NTNS>1994-10-12</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạch Vinh Mạnh</HovaTen>
+    <NTNS>1995-01-01</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tăng Lưu Vinh</HovaTen>
+    <NTNS>1994-06-15</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Danh Đoàn Thúy</HovaTen>
+    <NTNS>1994-03-18</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nghiêm Xuân Nguyệt Lâm</HovaTen>
+    <NTNS>1995-04-02</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cao Công Ánh</HovaTen>
+    <NTNS>1994-07-01</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Bành Hải Gia Tú</HovaTen>
+    <NTNS>1993-03-02</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Âu Hồng Luân</HovaTen>
+    <NTNS>1994-11-21</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đào Trường Lý Tuyền</HovaTen>
+    <NTNS>1995-12-26</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lại Phạm Viết Phương</HovaTen>
+    <NTNS>1993-02-19</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thiều Hùng Nguyên Hiệp</HovaTen>
+    <NTNS>1994-01-07</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lý Hữu Tùng</HovaTen>
+    <NTNS>1993-10-13</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Ánh Trịnh Ngọc</HovaTen>
+    <NTNS>1994-06-26</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tạ Phương Minh Anh</HovaTen>
+    <NTNS>1994-02-01</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Dư Bình Khôi Tuyền</HovaTen>
+    <NTNS>1995-08-11</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Kim Hoàng Nhựt</HovaTen>
+    <NTNS>1995-10-22</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lư Chí Ân</HovaTen>
+    <NTNS>1993-12-02</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hàng Dương Hùng Đạt</HovaTen>
+    <NTNS>1994-04-05</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Âu Phạm Nguyên</HovaTen>
+    <NTNS>1993-03-11</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đào Huỳnh Trịnh Kiệt</HovaTen>
+    <NTNS>1995-07-10</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lê Vũ Đức</HovaTen>
+    <NTNS>1993-03-31</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Bành Nguyên Phát</HovaTen>
+    <NTNS>1994-04-09</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vi Thế Hải</HovaTen>
+    <NTNS>1995-11-27</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tất Dương Vĩ Đăng</HovaTen>
+    <NTNS>1995-01-03</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tôn Nữ Xuân Trà Cường</HovaTen>
+    <NTNS>1995-04-03</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phương Bình Bùi Trang</HovaTen>
+    <NTNS>1993-01-08</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vòng Phúc Hòa</HovaTen>
+    <NTNS>1994-09-26</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Triệu Thiện Đức</HovaTen>
+    <NTNS>1995-12-02</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hoàng Lưu Khánh</HovaTen>
+    <NTNS>1995-03-30</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lai Gia Nhật Hậu</HovaTen>
+    <NTNS>1994-03-05</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phan Đặng Lộc</HovaTen>
+    <NTNS>1995-01-28</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lã Trần Thắng</HovaTen>
+    <NTNS>1995-12-23</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hà Nguyễn My</HovaTen>
+    <NTNS>1995-02-23</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hứa Dương Phước Ân</HovaTen>
+    <NTNS>1995-07-18</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Diệp Dương Phi Kiên</HovaTen>
+    <NTNS>1995-01-05</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạch Khôi Thái</HovaTen>
+    <NTNS>1994-07-21</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cao Cao Tuyết</HovaTen>
+    <NTNS>1994-02-06</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chu Cát Xuân</HovaTen>
+    <NTNS>1993-08-11</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trình Phan Hạnh</HovaTen>
+    <NTNS>1994-10-19</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chu Huỳnh Vinh Vy</HovaTen>
+    <NTNS>1994-05-02</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Chí Kỳ Quỳnh</HovaTen>
+    <NTNS>1993-09-30</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>La Đông Song Giang</HovaTen>
+    <NTNS>1995-01-07</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thân Trường Vinh</HovaTen>
+    <NTNS>1995-07-20</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Huỳnh Thiên Liên</HovaTen>
+    <NTNS>1995-01-14</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Đỗ Luân</HovaTen>
+    <NTNS>1994-03-31</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đỗ Thu Sang</HovaTen>
+    <NTNS>1995-02-09</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hà Quốc Ngân</HovaTen>
+    <NTNS>1994-01-06</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trần Khắc Dương Linh</HovaTen>
+    <NTNS>1995-10-11</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vũ Trúc Minh Thiên</HovaTen>
+    <NTNS>1993-09-08</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhan Trang Vinh Vỹ</HovaTen>
+    <NTNS>1995-11-19</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tôn Nữ Đoàn Lan Nguyệt</HovaTen>
+    <NTNS>1995-07-06</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Hùng Kiều Vinh</HovaTen>
+    <NTNS>1993-07-26</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Quan Hạo Tú</HovaTen>
+    <NTNS>1994-09-22</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trần Tuấn Nga</HovaTen>
+    <NTNS>1994-03-08</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chế Cẩm Hà Nghĩa</HovaTen>
+    <NTNS>1994-08-18</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>La Như An Nhàn</HovaTen>
+    <NTNS>1995-01-13</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhâm An Cẩm Anh</HovaTen>
+    <NTNS>1993-10-17</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạc Trâm Hà Phong</HovaTen>
+    <NTNS>1994-02-04</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Khổng Việt Hoài Thúy</HovaTen>
+    <NTNS>1994-12-30</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vòng Trang Anh Nhung</HovaTen>
+    <NTNS>1993-10-25</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hàng Nhật Huyền</HovaTen>
+    <NTNS>1994-07-30</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lai Nhựt Diệp</HovaTen>
+    <NTNS>1995-10-01</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đào Long Khang</HovaTen>
+    <NTNS>1994-10-19</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tạ Vĩ Đắc Linh</HovaTen>
+    <NTNS>1994-02-04</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tiêu Quý Thanh An</HovaTen>
+    <NTNS>1993-09-07</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nguyễn Phan Hà Ý</HovaTen>
+    <NTNS>1993-06-23</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chế Hà Trần Luân</HovaTen>
+    <NTNS>1993-04-07</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạc Ngân Khánh Như</HovaTen>
+    <NTNS>1994-02-21</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cao Song Bình Hiếu</HovaTen>
+    <NTNS>1995-06-16</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lã Phương Đại Trọng</HovaTen>
+    <NTNS>1995-01-16</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Dương Ngô Hân</HovaTen>
+    <NTNS>1995-04-20</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lý Việt Tuấn</HovaTen>
+    <NTNS>1995-02-25</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hàng Tiến Diệu</HovaTen>
+    <NTNS>1993-04-09</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chế Hiếu Anh</HovaTen>
+    <NTNS>1993-02-15</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Diệp Phi Nhân</HovaTen>
+    <NTNS>1995-09-25</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Danh Nguyệt Triệu Linh</HovaTen>
+    <NTNS>1994-06-30</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Doãn Thúy Phi Thiên</HovaTen>
+    <NTNS>1994-10-25</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đỗ Thục Nhã</HovaTen>
+    <NTNS>1995-01-31</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Triệu Phi Liên</HovaTen>
+    <NTNS>1993-02-28</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Huỳnh Vương Nam Tâm</HovaTen>
+    <NTNS>1994-05-10</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Văn Tiến Nghi</HovaTen>
+    <NTNS>1994-12-14</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đồng Hải Hoài Phong</HovaTen>
+    <NTNS>1994-10-15</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lữ Thuận Mẫn</HovaTen>
+    <NTNS>1995-06-07</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lâm Thanh Danh</HovaTen>
+    <NTNS>1994-12-03</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Giang Yến Trí</HovaTen>
+    <NTNS>1995-08-19</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ông Minh Anh</HovaTen>
+    <NTNS>1995-02-18</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Dương Châu Đức</HovaTen>
+    <NTNS>1995-07-30</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chung Thiên Ngọc Phương</HovaTen>
+    <NTNS>1994-01-28</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phương Phi Bình</HovaTen>
+    <NTNS>1995-12-02</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vương Anh Thúy</HovaTen>
+    <NTNS>1994-09-15</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lục Phan Hưng Bích</HovaTen>
+    <NTNS>1995-02-14</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ngô Lý Thu Thy</HovaTen>
+    <NTNS>1993-04-20</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hứa Quốc Thư</HovaTen>
+    <NTNS>1995-06-24</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trầm Khánh Thị Lam</HovaTen>
+    <NTNS>1994-04-08</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Lan Thị My</HovaTen>
+    <NTNS>1995-12-25</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lại Trúc Tuyết</HovaTen>
+    <NTNS>1994-07-20</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lâm Quang Diệp</HovaTen>
+    <NTNS>1994-05-27</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>La Hồng Hạnh Thành</HovaTen>
+    <NTNS>1994-11-05</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phùng Vĩ Châu</HovaTen>
+    <NTNS>1994-12-02</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Châu Võ Trường Trâm</HovaTen>
+    <NTNS>1994-05-05</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Nhật Trân</HovaTen>
+    <NTNS>1993-01-10</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phạm Chí Cao Huy</HovaTen>
+    <NTNS>1995-11-30</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Thục Chi</HovaTen>
+    <NTNS>1994-10-30</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Chí Công</HovaTen>
+    <NTNS>1994-12-20</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lê Phạm Mẫn Diệu</HovaTen>
+    <NTNS>1994-02-13</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhan Phạm Trọng</HovaTen>
+    <NTNS>1993-04-07</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nhâm Minh Thảo Xuân</HovaTen>
+    <NTNS>1994-09-21</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mạch Trương Thành Tiên</HovaTen>
+    <NTNS>1995-07-29</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Từ Thu Yến</HovaTen>
+    <NTNS>1994-05-12</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Chấn Diệp</HovaTen>
+    <NTNS>1993-12-27</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Danh Phúc Bách</HovaTen>
+    <NTNS>1993-03-17</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ôn Triệu Tiến Hồng</HovaTen>
+    <NTNS>1994-06-29</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trịnh Đăng Võ Linh</HovaTen>
+    <NTNS>1993-06-10</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Châu Lương Giang</HovaTen>
+    <NTNS>1995-01-04</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đặng Mai Hoài Văn</HovaTen>
+    <NTNS>1995-08-16</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trà Hữu Châu Quân</HovaTen>
+    <NTNS>1993-11-12</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ôn Phương Bích</HovaTen>
+    <NTNS>1994-06-07</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ôn Bội Minh Long</HovaTen>
+    <NTNS>1994-11-01</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trương Đỗ Hà Bình</HovaTen>
+    <NTNS>1995-02-01</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thạch Cát Triết</HovaTen>
+    <NTNS>1994-10-06</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Kiều Thiện Phạm Đăng</HovaTen>
+    <NTNS>1994-10-22</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Nguyễn Uyển Đông</HovaTen>
+    <NTNS>1995-07-07</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hoàng Vân Mẫn</HovaTen>
+    <NTNS>1995-07-25</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Dư Khánh Song Liên</HovaTen>
+    <NTNS>1995-08-13</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chu Trần Lan Công</HovaTen>
+    <NTNS>1995-10-24</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phương Dương Nhật Diễm</HovaTen>
+    <NTNS>1995-11-25</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lư Văn Yến Thuận</HovaTen>
+    <NTNS>1995-10-31</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Khưu Tiểu Tú Phương</HovaTen>
+    <NTNS>1994-03-03</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đào Đại Việt Hậu</HovaTen>
+    <NTNS>1994-09-14</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cao Hải Hoàng Ly</HovaTen>
+    <NTNS>1993-01-22</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Doãn Châu Cao Phương</HovaTen>
+    <NTNS>1994-07-24</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lục Trần Quân</HovaTen>
+    <NTNS>1995-05-24</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Biện Vĩ Quốc</HovaTen>
+    <NTNS>1995-11-23</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hàng Nhật Trịnh Trí</HovaTen>
+    <NTNS>1995-02-09</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tạ Cao Phát Mi</HovaTen>
+    <NTNS>1993-07-08</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mai Hồ Nhựt Mai</HovaTen>
+    <NTNS>1995-02-23</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Triệu Bùi Nhựt</HovaTen>
+    <NTNS>1993-06-12</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Bùi Thiện Phước</HovaTen>
+    <NTNS>1995-12-07</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tôn Thất Bùi Bích</HovaTen>
+    <NTNS>1994-04-09</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đoàn Trương Loan</HovaTen>
+    <NTNS>1993-08-07</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Võ Thiện Thục Thúy</HovaTen>
+    <NTNS>1993-07-31</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Trịnh Hải Phúc</HovaTen>
+    <NTNS>1994-01-01</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Sỹ Đạt</HovaTen>
+    <NTNS>1993-01-28</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Ông Nhất Kim Phước</HovaTen>
+    <NTNS>1995-02-18</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vi Châu Đinh Quỳnh</HovaTen>
+    <NTNS>1994-03-03</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Sơn Thái Hữu Thông</HovaTen>
+    <NTNS>1994-11-27</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Văn Công Duyên</HovaTen>
+    <NTNS>1995-07-10</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lục Phúc Long Hằng</HovaTen>
+    <NTNS>1994-02-14</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào An Phúc</HovaTen>
+    <NTNS>1995-02-22</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Giang Hoài Tâm</HovaTen>
+    <NTNS>1994-07-04</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Khải Đỗ Hằng</HovaTen>
+    <NTNS>1995-09-18</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lữ Long Ngọc Dương</HovaTen>
+    <NTNS>1994-11-28</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tào Cao Nguyễn Quý</HovaTen>
+    <NTNS>1994-12-13</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Cù Kỳ Lâm</HovaTen>
+    <NTNS>1994-01-01</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Dương Việt Toàn</HovaTen>
+    <NTNS>1994-03-28</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Quách Phan Nguyên</HovaTen>
+    <NTNS>1993-10-08</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đàm Lương Lê Nhân</HovaTen>
+    <NTNS>1995-01-02</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Cao Dũng</HovaTen>
+    <NTNS>1995-05-29</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Sơn Trọng Mẫn Minh</HovaTen>
+    <NTNS>1993-10-24</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Bảo Kiên</HovaTen>
+    <NTNS>1995-11-02</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Hồng Như Huỳnh Yến</HovaTen>
+    <NTNS>1995-04-18</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Phù Lan Phúc</HovaTen>
+    <NTNS>1995-04-16</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tạ Tú Thắm</HovaTen>
+    <NTNS>1994-07-22</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lục Mai Viết Nga</HovaTen>
+    <NTNS>1993-11-16</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lữ Quỳnh An Hiền</HovaTen>
+    <NTNS>1993-05-15</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Dương Huy Hiền</HovaTen>
+    <NTNS>1994-07-05</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tăng Lưu Minh Long</HovaTen>
+    <NTNS>1995-09-30</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Doãn Nhã Xuân Tuyết</HovaTen>
+    <NTNS>1995-07-25</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tất Lê Kiên</HovaTen>
+    <NTNS>1995-11-05</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Nguyễn Xuân Lê Tường</HovaTen>
+    <NTNS>1994-07-25</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mai Nhất Phi Như</HovaTen>
+    <NTNS>1995-08-22</NTNS>
+    <DIEMTB>7.6</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Vũ Mai Thùy Nhân</HovaTen>
+    <NTNS>1995-09-26</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tôn Thiên Phương</HovaTen>
+    <NTNS>1995-05-04</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Thi Hà Kiến Cường</HovaTen>
+    <NTNS>1995-12-07</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Văn Đông Diễm</HovaTen>
+    <NTNS>1994-10-23</NTNS>
+    <DIEMTB>7.7</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Mã Lâm Thái</HovaTen>
+    <NTNS>1994-09-26</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lại Yến Giang</HovaTen>
+    <NTNS>1994-05-24</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Tôn Nữ Hoàng Nguyên Anh</HovaTen>
+    <NTNS>1993-08-01</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Đào Nguyệt Tường</HovaTen>
+    <NTNS>1994-06-01</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Đoàn Nhật Lê Thư</HovaTen>
+    <NTNS>1994-11-05</NTNS>
+    <DIEMTB>7.9</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Kim Mẫn Nguyên Tân</HovaTen>
+    <NTNS>1994-12-30</NTNS>
+    <DIEMTB>7.2</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Trang Diệu Như Bình</HovaTen>
+    <NTNS>1994-11-20</NTNS>
+    <DIEMTB>7.8</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Liêu Hiếu Như Hòa</HovaTen>
+    <NTNS>1995-12-16</NTNS>
+    <DIEMTB>7.1</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chế Huỳnh Trân</HovaTen>
+    <NTNS>1995-11-22</NTNS>
+    <DIEMTB>7.0</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Khưu Quốc Đạt</HovaTen>
+    <NTNS>1995-05-04</NTNS>
+    <DIEMTB>7.5</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Chu Ngô Thế Lam</HovaTen>
+    <NTNS>1995-03-20</NTNS>
+    <DIEMTB>7.3</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+  <Hoc_sinh>
+    <HovaTen>Lã Hoàng Nhựt</HovaTen>
+    <NTNS>1995-12-12</NTNS>
+    <DIEMTB>7.4</DIEMTB>
+    <XEPLOAI>K</XEPLOAI>
+    <KETQUA>HT</KETQUA>
+  </Hoc_sinh>
+</data>
